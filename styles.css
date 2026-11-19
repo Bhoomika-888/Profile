@@ -717,7 +717,7 @@ body {
   border: 2px solid var(--border-subtle);
   background: var(--bg-card);
   box-shadow: var(--shadow-lg);
-  aspect-ratio: 1079 / 1316;
+  aspect-ratio: 1136 / 1385;
 }
 
 .profile-img {
